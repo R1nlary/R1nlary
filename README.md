@@ -19,8 +19,8 @@
     <td><b>Backend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,php,laravel,go,py,rabbitmq&theme=dark">
-        <img alt="Node.js, TypeScript, NestJS, Express, PHP, Laravel, Go, Python, RabbitMQ" src="https://skillicons.dev/icons?i=nodejs,ts,nestjs,express,php,laravel,go,py,rabbitmq&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=nodejs%2Cts%2Cnestjs%2Cexpress%2Cphp%2Claravel%2Cgo%2Cpy%2Crabbitmq&theme=dark">
+        <img alt="Node.js, TypeScript, NestJS, Express, PHP, Laravel, Go, Python, RabbitMQ" src="https://skillicons.dev/icons?i=nodejs%2Cts%2Cnestjs%2Cexpress%2Cphp%2Claravel%2Cgo%2Cpy%2Crabbitmq&theme=light">
       </picture>
       <br>Socket.IO, BullMQ, gRPC, OpenAPI
     </td>
@@ -29,8 +29,8 @@
     <td><b>Frontend</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux&theme=dark">
-        <img alt="React, Next.js, Vite, Tailwind CSS, Redux" src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,redux&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvite%2Ctailwind%2Credux&theme=dark">
+        <img alt="React, Next.js, Vite, Tailwind CSS, Redux" src="https://skillicons.dev/icons?i=react%2Cnextjs%2Cvite%2Ctailwind%2Credux&theme=light">
       </picture>
       <br>TanStack Query, Zustand, shadcn/ui, PixiJS, Leaflet, MapLibre
     </td>
@@ -39,8 +39,8 @@
     <td><b>Mobile</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=dark">
-        <img alt="Flutter, Dart, Firebase" src="https://skillicons.dev/icons?i=flutter,dart,firebase&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Cdart%2Cfirebase&theme=dark">
+        <img alt="Flutter, Dart, Firebase" src="https://skillicons.dev/icons?i=flutter%2Cdart%2Cfirebase&theme=light">
       </picture>
       <br>BLoC, Riverpod, Dio, Freezed
     </td>
@@ -49,8 +49,8 @@
     <td><b>Databases</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&theme=dark">
-        <img alt="PostgreSQL, MySQL, MongoDB, Redis, Prisma" src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Credis%2Cprisma&theme=dark">
+        <img alt="PostgreSQL, MySQL, MongoDB, Redis, Prisma" src="https://skillicons.dev/icons?i=postgres%2Cmysql%2Cmongodb%2Credis%2Cprisma&theme=light">
       </picture>
       <br>PostGIS, TypeORM, Drizzle, Mongoose
     </td>
@@ -59,8 +59,8 @@
     <td><b>DevOps</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker,nginx,linux,kubernetes,gitlab,ansible&theme=dark">
-        <img alt="Docker, nginx, Linux, Kubernetes, GitLab, Ansible" src="https://skillicons.dev/icons?i=docker,nginx,linux,kubernetes,gitlab,ansible&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=docker%2Cnginx%2Clinux%2Ckubernetes%2Cgitlab%2Cansible&theme=dark">
+        <img alt="Docker, nginx, Linux, Kubernetes, GitLab, Ansible" src="https://skillicons.dev/icons?i=docker%2Cnginx%2Clinux%2Ckubernetes%2Cgitlab%2Cansible&theme=light">
       </picture>
       <br>GitLab CI, PM2, Helm, blue-green deploys
     </td>
@@ -69,8 +69,8 @@
     <td><b>Testing</b></td>
     <td>
       <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=jest,vitest&theme=dark">
-        <img alt="Jest, Vitest" src="https://skillicons.dev/icons?i=jest,vitest&theme=light">
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=jest%2Cvitest&theme=dark">
+        <img alt="Jest, Vitest" src="https://skillicons.dev/icons?i=jest%2Cvitest&theme=light">
       </picture>
       <br>Playwright, Supertest
     </td>
